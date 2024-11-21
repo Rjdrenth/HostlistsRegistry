@@ -1,0 +1,17 @@
+!
+! Title: RJD AdGuard White List
+! Description: Whitelist for stuff so my wife does not complain
+! Homepage: https://github.com/Rjdrenth/HostlistsRegistry
+! Last modified: 2024-11-21T13:54:00.010Z
+!
+! Compiled by me
+!
+!
+! Source name: RJD AdGuard White List
+! Source: https://github.com/Rjdrenth/HostlistsRegistry/whitelist.txt
+!
+
+# [googleadservices.com]
+@@|googleadservices.com^$important
+@@|pagead2.googleadservices.com^$important
+@@|www.googleadservices.com^$important
