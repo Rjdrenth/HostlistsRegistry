@@ -12,6 +12,6 @@
 !
 
 # [googleadservices.com]
-@@|googleadservices.com^$important
-@@|pagead2.googleadservices.com^$important
-@@|www.googleadservices.com^$important
+googleadservices.com
+pagead2.googleadservices.com
+www.googleadservices.com
